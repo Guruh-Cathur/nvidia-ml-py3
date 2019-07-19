@@ -142,6 +142,8 @@ Version 7.346.0
 - Added new functions for NVML 7.346.  See NVML documentation for more information.
 Version 7.352.0
 - Added new functions for NVML 7.352.  See NVML documentation for more information.
+Version 7.352.1
+- Bump version number so requirements.txt will pick up the update for windows/system32
 
 COPYRIGHT
 ---------
